@@ -1,0 +1,10 @@
+header {
+    background-color: #30343F;
+}
+.fondo-banner {
+    background-image: url(./img/funkos-banner.webp);
+}
+footer {
+    background-color: #30343F;
+    color: white;
+}
